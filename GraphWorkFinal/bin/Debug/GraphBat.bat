@@ -1,0 +1,1 @@
+start C:\Users\Maksim\source\repos\GraphWorkFinal\GraphWorkFinal\bin\Debug\Graphviz\bin\dot -Tpng GraphCode.dot -o GraphPicture.png

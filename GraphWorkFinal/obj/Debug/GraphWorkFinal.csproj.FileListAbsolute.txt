@@ -1,0 +1,10 @@
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\bin\Debug\GraphWorkFinal.exe.config
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\bin\Debug\GraphWorkFinal.exe
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\bin\Debug\GraphWorkFinal.pdb
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.csprojResolveAssemblyReference.cache
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.Form1.resources
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.Properties.Resources.resources
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.csproj.GenerateResource.Cache
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.csproj.CoreCompileInputs.cache
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.exe
+c:\users\maksim\source\repos\GraphWorkFinal\GraphWorkFinal\obj\Debug\GraphWorkFinal.pdb
